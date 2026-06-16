@@ -1,36 +1,102 @@
-# Hi there 👋, I'm Vinod Kumar
+# Hi 👋, I'm S.V.S.S Vinod Kumar
+
+<h3 align="center">
+Final Year Computer Science Engineering Student | Research Intern @ Edge2Systems | AI & Computer Vision Developer | Full Stack Developer | 7× Hackathon Winner 🏆
+</h3>
+
+<p align="center">
+Building AI Systems, Autonomous Robots, Computer Vision Applications, RAG Solutions, and Intelligent Automation Platforms.
+</p>
+
+---
 
 ## 🚀 About Me
 
-I'm **S.V.S.S Vinod Kumar**, a Pre-Final Year Computer Science Engineering student at Andhra University, passionate about building innovative solutions that bridge software, artificial intelligence, robotics, and embedded systems.
+I'm a passionate Computer Science Engineering student at Andhra University with a strong interest in Artificial Intelligence, Computer Vision, Robotics, Embedded Systems, and Full-Stack Development.
 
-My journey revolves around transforming ideas into impactful technology—from AI-powered surveillance systems and autonomous robots to computer vision applications, drone technology, and full-stack development.
+Over the past few years, I have worked on real-world AI solutions ranging from Offline RAG Systems and AI Assistants to Autonomous Surveillance Robots, Computer Vision Applications, and Intelligent Drone Platforms.
 
-I enjoy solving real-world challenges through code, hardware, and creativity.
+Currently, I am working as a Research Intern at Edge2Systems, where I contribute to AI research, custom model development, enterprise software solutions, and offline AI systems.
 
 ---
 
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech) – Computer Science & Engineering**
-Andhra University
-2023 – 2027 
+Andhra University (2023 – 2027)
 
-**CGPA:** 8.13
+📈 CGPA: **8.2**
+
+---
+
+## 🏢 Professional Experience
+
+### Research Intern — Edge2Systems
+
+**Dec 2025 – Jun 2026**
+
+* Developed enterprise-grade AI solutions
+* Built Offline RAG Systems and AI Assistants
+* Trained and optimized custom AI models
+* Worked with industry development teams on real-world software projects
+
+### Full Stack Development Intern — RINL (Steel Plant)
+
+**May 2025 – Jul 2025**
+
+* Developed an ETL Management System
+* Worked with Java, JSP, Servlets, Tomcat, and MySQL
+* Built data-driven enterprise applications
+
+### Firebase Lead — GDGoC AUCE
+
+**Oct 2025 – Present**
+
+* Leading Firebase initiatives
+* Mentoring students on Firebase and cloud technologies
+* Organizing technical learning activities
+
+### Student Ambassador — IDP Education
+
+**Jul 2025 – Present**
+
+* Promoting global education opportunities
+* Guiding students on higher education pathways
 
 ---
 
 ## 🏆 Achievements
 
-🥇 7× Consecutive Hackathon Champion
+🥇 7× Consecutive Hackathon Winner
 
-🥇 1st Prize Winner – Tri-Mobility Hackathon (IoT Domain)
+🥇 1st Place — Tri-Mobility Hackathon 2026
 
-💰 Prize Amount: ₹13,000
+🥉 3rd Place — AURAX AI Innovation Challenge
 
-🏢 Research Intern - Edge2Systems 
+🥇 1st Place — Green Spark Ideathon
 
-🏢 Full Stack Development Intern – VSP RINL
+🥉 3rd Place — Spark Nation Hackathon
+
+🏅 Smart India Hackathon Participant
+
+🏅 Andhra University Centenary Project Showcase Presenter
+
+🏅 National-Level Hackathon Finalist
+
+---
+
+## 🤖 Areas of Interest
+
+* Artificial Intelligence
+* Computer Vision
+* Deep Learning
+* Agentic AI
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Robotics
+* Drone Technology
+* Intelligent Automation
+* IoT & Embedded Systems
 
 ---
 
@@ -38,110 +104,114 @@ Andhra University
 
 ### Programming Languages
 
-* Python
-* Java
-* C
-* C++
-* JavaScript
-
-### Web Development
-
-* Flask
-* Node.js
-* HTML
-* CSS
-* REST APIs
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Firebase
+Python • Java • C • C++ • JavaScript
 
 ### AI & Machine Learning
 
-* Computer Vision
-* YOLO
-* OpenCV
-* Deep Learning
-* Retrieval-Augmented Generation (RAG)
-* Local LLM Deployment
-* Ollama
+YOLO • OpenCV • Deep Learning • Ollama • Local LLMs • RAG Systems • OCR • Model Training
 
-### Tools & Technologies
+### Backend & Full Stack
 
-* Git & GitHub
-* Docker
-* Linux
-* Arduino IDE
-* Android Studio
-* Blender
+Flask • Node.js • REST APIs • JSP • Servlets • Tomcat
 
-### Embedded Systems & Robotics
+### Databases
 
-* Arduino
-* ESP32
-* Drone Development
-* IoT Systems
-* Sensor Integration
-* Autonomous Systems
+PostgreSQL • MySQL • MongoDB • Firebase
+
+### Tools & Platforms
+
+Git • GitHub • Docker • Linux • Arduino IDE • Android Studio • Blender
+
+### Hardware & Robotics
+
+ESP32 • Arduino • IoT Systems • Drone Development • Autonomous Robots • Sensor Integration
 
 ---
 
 ## 🔥 Featured Projects
 
+### 🤖 Jarvis AI Assistant
+
+A fully offline AI assistant supporting:
+
+* Voice Interaction
+* OCR Processing
+* Semantic Search
+* Local LLM Inference
+* Document Intelligence
+* Retrieval-Augmented Generation (RAG)
+
+---
+
+### 📚 Offline RAG Assistant
+
+A privacy-focused Retrieval-Augmented Generation platform featuring:
+
+* PDF Ingestion
+* OCR Support
+* Local Embeddings (BGE)
+* FAISS Vector Database
+* Offline Question Answering
+
+---
+
+### 🚗 Automatic Number Plate Recognition (ANPR)
+
+Real-time vehicle detection and recognition system built using:
+
+* YOLO
+* OpenCV
+* OCR
+* Custom Dataset Training
+
+---
+
 ### 🤖 AI-Powered Smart Guardian
 
-An intelligent autonomous monitoring robot capable of:
+An intelligent safety robot capable of:
 
-* Fall detection
-* Real-time video streaming
-* Intruder detection
-* Animal detection
-* SMS emergency alerts
-* Evidence capture system
-
----
-
-### 🚁 Autonomous Drone Platform
-
-Developing a custom drone platform featuring:
-
-* Flight stabilization
-* Telemetry systems
-* Camera integration
-* Long-flight optimization
-* Autonomous navigation research
+* Fall Detection
+* Emergency SMS Alerts
+* Live Video Streaming
+* Hazard Detection
+* Autonomous Monitoring
 
 ---
 
-### 📚 Offline AI RAG Assistant
+### 🚁 Autonomous AI Surveillance Drone
 
-A fully offline Retrieval-Augmented Generation system powered by:
+Custom-built drone platform integrating:
 
-* Ollama
-* FAISS
-* Local Embedding Models
-* Private Document Search
-* Multi-format Knowledge Base
-
----
-
-## 🌱 Currently Learning
-
-* Advanced AI Systems
-* Agentic AI
-* Large Language Models
-* Autonomous Robotics
-* Drone Intelligence
-* Computer Vision Optimization
+* Flight Control Systems
+* Computer Vision
+* Wireless Communication
+* Live Video Streaming
+* Autonomous Monitoring
 
 ---
 
-## 📈 Career Objective
+## 🏅 Sports Achievements
 
-To become a world-class Software Engineer and AI Engineer by building innovative technologies that create meaningful impact in people's lives.
+### Competitive Roller Skating (2019 – 2022)
+
+🏆 Represented Andhra Pradesh at the National School Games Championship (SGFI)
+
+🏅 Multiple State-Level Podium Finishes
+
+🏅 15+ District-Level Medals
+
+Developed discipline, resilience, consistency, and leadership through competitive sports.
+
+---
+
+## 📜 Certifications
+
+* Full Stack Development (RINL)
+* Java – Mastering Fundamentals (Scaler)
+* Java Training (MSME)
+* Machine Learning (Simplilearn)
+* Cyber Security & Penetration Testing (MeitY & AU)
+* Understanding Java for Oracle (Alison)
 
 ---
 
@@ -158,12 +228,15 @@ https://vinod63021.github.io/My_Portfolio/
 GitHub:
 https://github.com/vinod63021
 
+Portfolio:
+https://vinod63021.github.io/My_Portfolio/
+
 LinkedIn:
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/sammidi-vinod/
 
 Email:
-(Add your professional email here)
+sammidivinod@gmail.com
 
 ---
 
-> "From Code to Circuits — Turning Ideas into Reality."
+> "From Code to Circuits — Turning Ideas Into Reality."
