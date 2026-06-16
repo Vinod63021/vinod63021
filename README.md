@@ -14,7 +14,7 @@ I enjoy solving real-world challenges through code, hardware, and creativity.
 
 **Bachelor of Technology (B.Tech) – Computer Science & Engineering**
 Andhra University
-2023 – 2027 (Expected)
+2023 – 2027 
 
 **CGPA:** 8.13
 
@@ -22,11 +22,13 @@ Andhra University
 
 ## 🏆 Achievements
 
-🥇 5× Consecutive Hackathon Champion
+🥇 7× Consecutive Hackathon Champion
 
 🥇 1st Prize Winner – Tri-Mobility Hackathon (IoT Domain)
 
 💰 Prize Amount: ₹13,000
+
+🏢 Research Intern - Edge2Systems 
 
 🏢 Full Stack Development Intern – VSP RINL
 
